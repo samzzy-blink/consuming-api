@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/samzzy-blink/consuming-api.git/static/css/main.b428a6e3.chunk.css",
+    "main.js": "/samzzy-blink/consuming-api.git/static/js/main.3d2598a2.chunk.js",
+    "main.js.map": "/samzzy-blink/consuming-api.git/static/js/main.3d2598a2.chunk.js.map",
+    "runtime-main.js": "/samzzy-blink/consuming-api.git/static/js/runtime-main.f3f2cc14.js",
+    "runtime-main.js.map": "/samzzy-blink/consuming-api.git/static/js/runtime-main.f3f2cc14.js.map",
+    "static/js/2.f669b3fa.chunk.js": "/samzzy-blink/consuming-api.git/static/js/2.f669b3fa.chunk.js",
+    "static/js/2.f669b3fa.chunk.js.map": "/samzzy-blink/consuming-api.git/static/js/2.f669b3fa.chunk.js.map",
+    "index.html": "/samzzy-blink/consuming-api.git/index.html",
+    "static/css/main.b428a6e3.chunk.css.map": "/samzzy-blink/consuming-api.git/static/css/main.b428a6e3.chunk.css.map",
+    "static/js/2.f669b3fa.chunk.js.LICENSE.txt": "/samzzy-blink/consuming-api.git/static/js/2.f669b3fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f2cc14.js",
+    "static/js/2.f669b3fa.chunk.js",
+    "static/css/main.b428a6e3.chunk.css",
+    "static/js/main.3d2598a2.chunk.js"
+  ]
+}
